@@ -24,6 +24,8 @@ Then download the zip file extract it to a folder and you have it.
 ## Errors
 
 If you have any error problems here's how  to fix them
+
+
 ![image](https://user-images.githubusercontent.com/95067718/159101629-99ecfbbf-ef33-4b14-9cd7-92afe59b6c9f.png)
 
 If you get this error please add the folder you extracted and the exe of Dreadlight to the Windows Security exclusions folder, although it is not a virus windows automatically still says it is. 
